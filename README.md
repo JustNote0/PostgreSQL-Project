@@ -17,31 +17,9 @@ The system is developed using **PostgreSQL**, and includes:
 
 ---
 
-## 🗂️ Repository Structure
-'''
----
-PosgreSQL-Project/
-│
-├── Insert_data/
-│ ├── data_customer.sql
-│ ├── data_driver.sql
-│ ├── data_menu.sql
-| ├── data_payment.sql
-| ├── data_payment_method.sql
-| ├── data_pesanan.sql
-| └── data_restaurant.sql
-│
-├── create_table/
-│ └── laporan_transaksi_harian.sql # Daily transaction report (View)
-│
-├── functions/
-│ └── laporan_transaksi_harian.sql # Function to get daily report by date
-│
-├── queries/
-│ ├── sql_invoice.sql # Query to extract detailed invoice
-│ └── sql_transaction_report.sql # Transaction summary including payment method
-│
-└── README.md
+## ⚙️ Tech Stack
+- Database Engine: PosgreSQL
+- Design Tools:  PowerDesigner, draw.io
 
 ---
 '''
