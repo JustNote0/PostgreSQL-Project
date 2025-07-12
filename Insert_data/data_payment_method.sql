@@ -1,0 +1,12 @@
+INSERT INTO Payment_Method (py_method_id, payment_id, gopay, shopeepay, ovo, tf_bri, tf_bca, tf_mandiri)
+VALUES
+(70001, 60001, 'Yes', NULL, NULL, NULL, NULL, NULL),
+(70002, 60002, NULL, 'Yes', NULL, NULL, NULL, NULL),
+(70003, 60003, NULL, NULL, 'Yes', NULL, NULL, NULL),
+(70004, 60004, NULL, NULL, NULL, 'Yes', NULL, NULL),
+(70005, 60005, NULL, NULL, NULL, NULL, 'Yes', NULL),
+(70006, 60006, NULL, NULL, NULL, NULL, NULL, 'Yes'),
+(70007, 60007, 'Yes', NULL, NULL, NULL, NULL, NULL),
+(70008, 60008, NULL, 'Yes', NULL, NULL, NULL, NULL),
+(70009, 60009, NULL, NULL, 'Yes', NULL, NULL, NULL),
+(70010, 60010, NULL, NULL, NULL, 'Yes', NULL, NULL);
