@@ -18,7 +18,8 @@ The system is developed using **PostgreSQL**, and includes:
 ---
 
 ## 🗂️ Repository Structure
-
+'''
+---
 PosgreSQL-Project/
 │
 ├── Insert_data/
@@ -41,3 +42,6 @@ PosgreSQL-Project/
 │ └── sql_transaction_report.sql # Transaction summary including payment method
 │
 └── README.md
+
+---
+'''
