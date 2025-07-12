@@ -20,5 +20,5 @@ The system is developed using **PostgreSQL**, and includes:
 ## ⚙️ Tech Stack
 - Database Engine: PosgreSQL
 - Design Tools:  PowerDesigner, draw.io
-- SQL client (PgAdmin)
+- SQL client: PgAdmin
 
